@@ -1,0 +1,73 @@
+# Week 9 Reflection: Weeks 6-8
+
+## Name
+Sanya Bhadri
+
+
+## Project Or App Name
+Beat Bridge
+
+
+## Part 1: Development Process
+Describe how you moved from story or app idea into folders, files, documentation, JSON, and testing. I started by creating the idea for BeatBridge, a music discovery app that helps users find new music based on their mood and favorite genres. I then planned the app by creating documentation, identifying variables and functions, and designing the folder structure. After that, I added JSON support so project information could be saved and loaded, and I tested the application to make sure the folders and JSON files were created correctly.
+
+
+## Part 2: Querying And Research
+List at least three things you searched, asked, watched, tested, or read.
+| Question or Need | Where I Looked | What I Learned | How I Used It |
+
+#1
+Question or need: How to use JSON in Visual Studio.
+Where I looked: Newtonsoft.Json documentation and class tutorial.
+What I learned: How to serialize and deserialize objects.
+How I used it: Used it to save project information in a Project.json file.
+#2
+Question or need: How to create folders and files.
+Where I looked: Microsoft VB.NET documentation and course examples.
+What I learned: How to create directories and write files.
+How I used it: Used it to generate the BeatBridge project folder structure.
+#3
+Question or need: How to fix file path and variable errors.
+Where I looked: Visual Studio error messages and online searches.
+What I learned: How to correctly build file paths and organize variables.
+How I used it: Fixed errors so the project folder and JSON file were created successfully.
+
+
+## Part 3: Code Does Not Live Alone
+Explain how code connects to soft skills, hard skills, collaboration, machines, documentation, and communication.
+Building this project required more than just writing VB.NET code. I had to use organization skills to create a clear folder structure, keep my files in the correct locations, and make sure my submission was easy to follow. Problem-solving was important because I ran into errors with file paths, variables, duplicate procedures, and JSON saving. I had to read error messages, test different solutions, and make changes until the program worked correctly. Communication also connected to the project because I needed to explain my process clearly through the reflection, screenshots, GitHub files, and Discord progress post. The code depended on tools and machines such as Visual Studio, the computer’s file system, and GitHub, so all of these parts had to work together for the project to be complete.
+
+
+## Part 4: What I Would Change
+If you could redo Weeks 6-8, what would you organize, document, ask, test, or submit differently?
+If I could redo Weeks 6–8, I would organize my project files and folders earlier so everything stayed easier to manage throughout development. I would test my code after completing each feature instead of waiting until several changes were made, which would make it easier to identify and fix errors. I would also write comments as I coded instead of adding them at the end, making the code easier to understand. Finally, I would spend more time planning the JSON structure before implementing it to avoid making changes later and create a more organized application.
+
+
+## Part 5: Week 9 Coding Practice
+Explain both required coding pathways.
+
+### Pathway A: Text Starter Code
+Explain what the provided starter code does after you get it running in Visual Studio.
+- Array used: The storyChoices array stores the menu options that are displayed to the user.
+- Loop used to display choices: A For...Next loop displays every choice in the array and gives each choice a number.
+- Loop used to repeat the program: A Do While loop keeps the program running until the user chooses to exit.
+- Three choices I changed: 1. Discover music based on your mood. 2. Create a new playlist. 3. View your saved songs.
+
+### Pathway B: Video Tutorial
+Explain what you built by following the VB.NET loops video.
+- Project from the video: A VB.NET loops practice project based on the tutorial.
+- Loop or loops used: The project uses loops to repeat a group of instructions. These loops continue for a set number of times or until a condition changes.
+- My small personal change: I changed some of the text or information in the program so it connected to BeatBridge and music.
+- Screenshot location: The screenshots of the code and running output are located in the Week 9 screenshots folder.
+
+
+## Part 6: Git Submission Map
+Your root README must explain where the instructor can find every item you want graded.
+
+- Reflection location: Week 9/Week 9 Reflection
+- Query log location: Week 9/Query Log
+- Pathway A text starter project location: Week 9/Pathway A
+- Pathway B video tutorial project location: Week 9/Pathway B
+- Screenshots location: Week 9/Screenshot Proof
+- Discord proof location: Week 9/Discord Proof
+- README location: Week 9

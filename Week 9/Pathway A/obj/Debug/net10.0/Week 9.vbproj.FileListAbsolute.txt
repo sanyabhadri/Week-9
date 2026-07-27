@@ -1,0 +1,28 @@
+/Users/sanyabhadri/Desktop/CS-120/Week 9/bin/Debug/net10.0/Week 9
+/Users/sanyabhadri/Desktop/CS-120/Week 9/bin/Debug/net10.0/Week 9.deps.json
+/Users/sanyabhadri/Desktop/CS-120/Week 9/bin/Debug/net10.0/Week 9.runtimeconfig.json
+/Users/sanyabhadri/Desktop/CS-120/Week 9/bin/Debug/net10.0/Week 9.dll
+/Users/sanyabhadri/Desktop/CS-120/Week 9/bin/Debug/net10.0/Week 9.pdb
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/Week 9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/Week 9.AssemblyInfoInputs.cache
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/Week 9.AssemblyInfo.vb
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/Week 9.vbproj.CoreCompileInputs.cache
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/Week 9.dll
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/refint/Week 9.dll
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/Week 9.pdb
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/Week 9.genruntimeconfig.cache
+/Users/sanyabhadri/Desktop/CS-120/Week 9/obj/Debug/net10.0/ref/Week 9.dll
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/Week 9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/Week 9.AssemblyInfoInputs.cache
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/Week 9.AssemblyInfo.vb
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/Week 9.vbproj.CoreCompileInputs.cache
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/Week 9.dll
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/refint/Week 9.dll
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/Week 9.pdb
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/bin/Debug/net10.0/Week 9
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/bin/Debug/net10.0/Week 9.deps.json
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/bin/Debug/net10.0/Week 9.runtimeconfig.json
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/bin/Debug/net10.0/Week 9.dll
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/bin/Debug/net10.0/Week 9.pdb
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/Week 9.genruntimeconfig.cache
+/Users/sanyabhadri/Desktop/CS-120/Week 9/Pathway A/obj/Debug/net10.0/ref/Week 9.dll

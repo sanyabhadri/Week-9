@@ -1,0 +1,25 @@
+# Week 9 Query Log
+
+Use this to show how you gathered information.
+
+| # | Question, Search, Or Problem | Source Used | Answer Or Result | Next Action |
+|---|------------------------------|-------------|------------------|-------------|
+
+
+#1
+Question, Search, Or Problem: How do I create and run the Week 9 starter project in Visual Studio?
+Source Used: Visual Studio and AI tool
+Answer Or Result: I learned how to create a new VB.NET Console App, replace the Program.vb file with the starter code, and run the project successfully.
+Next Action: I tested the program and changed three menu choices in the array.
+
+#2
+Question, Search, Or Problem: How do I make the menu keep running until the user decides to exit?
+Source Used: Google--> "VB.NET Do While loop"
+Answer Or Result: I learned that a Do While loop keeps repeating the menu until the Boolean variable is changed to False.
+Next Action: I tested the program by selecting different menu options and then exiting with option 0.
+
+#3
+Question, Search, Or Problem: How do I change the menu choices without changing the rest of the program?
+Source Used: YouTube tutorial
+Answer Or Result: I learned that I only needed to edit the text inside the string array. The loops automatically displayed the updated menu options.
+Next Action: I replaced three of the original menu choices with my own BeatBridge-themed choices and ran the program again to make sure they appeared correctly.
